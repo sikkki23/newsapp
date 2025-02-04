@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": "CBS News",
+        "title": "Why are investors excited about Trump's upcoming term?",
+        "description": "President-elect Donald Trump returned to his hometown of New York City on Thursday to ring the opening bell at the New York Stock Exchange. Wall Street investors seem to have embraced the incoming administration as all three major indexes have hit record high…",
+        "url": "https://www.cbsnews.com/video/why-investors-excited-trumps-upcoming-term/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/12/13/744e2abd-df5d-41dd-b757-14698f716e44/thumbnail/1200x630/22152cca5d554a47bc62554d6dff7f00/cbsn-fusion-why-investors-excited-trumps-upcoming-term-thumbnail.jpg?v=564e83c5974b3893ba1bcac5fe5947af",
+        "publishedAt": "2024-12-13T00:58:00+00:00",
+        "content": "Watch CBS News\r\nCopyright ©2024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+      },
+      {
+        "source": {
+          "id": "nbc-news",
+          "name": "NBC News"
+        },
+        "author": "Steve Kopack, J.J. McCorvey",
+        "title": "Kroger and Albertsons are spending billions on stock buybacks after their blocked merger",
+        "description": "The grocery store operators had said they’d be able to cut prices by combining, but regulators and a judge disagreed. Now they’re investing moves to reward shareholders.",
+        "url": "https://www.nbcnews.com/business/business-news/kroger-albertsons-are-spending-billions-stock-buybacks-blocked-merger-rcna183829",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-12/241211-Albertsons-ew-223p-715b09.jpg",
+        "publishedAt": "2024-12-12T23:28:59Z",
+        "content": "Within a day of their $25 billion mergers falling apart in court, Kroger and Albertsons were each planning to move forward with share repurchases to boost their stock prices and reward investors.\r\nAm… [+6268 chars]"
+      },
+      {
+        "source": {
+          "id": "recode",
+          "name": "Recode"
+        },
+        "author": "Nicole Narea",
+        "title": "Why is GameStop stock surging again?",
+        "description": "Why are GameStop, AMC, and BlackBerry stocks surging again? Ask Roaring Kitty.",
+        "url": "https://www.vox.com/business-and-finance/2024/5/14/24156725/meme-stocks-gamestop-reddit-amc-blackberry-wallstreetbets",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/bNRxjIXIJ1AI8FrLhADmrXc7b3I=/0x0:4000x2094/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25447983/1746649757.jpg",
+        "publishedAt": "2024-05-14T20:20:00Z",
+        "content": "A roaring kitty, a legion of Redditors, and failing companies that are suddenly, inexplicably highly valued are making it feel like 2021 all over again. \r\nGameStop was one of the first memestocks sto… [+3656 chars]"
+      },
+      {
+        "source": {
+          "id": "fortune",
+          "name": "Fortune"
+        },
+        "author": "Kevin Kelleher",
+        "title": "Buybacks vs dividends? In market downturns, the rules may change",
+        "description": "CFOs can return profits to shareholders with dividends and buybacks. Here's how they may fare during a stock market selloff or recession.",
+        "url": "https://fortune.com/2022/06/01/buybacks-vs-dividends-stock-market-downturns-recession-cfo-daily-newsletter/",
+        "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/05/GettyImages-1310316502.jpg?resize=1200,600",
+        "publishedAt": "2022-06-01T10:15:00Z",
+        "content": "Skip to Content"
+      },
+      {
+        "source": {
+          "id": "recode",
+          "name": "Recode"
+        },
+        "author": "Emily Stewart",
+        "title": "How Reddit and WallStreetBets blew up GameStop’s stock",
+        "description": "A bunch of Redditors made GameStop’s stock soar, much to the chagrin of the hedge funds attempting to short it.",
+        "url": "https://www.vox.com/the-goods/22249458/gamestop-stock-wallstreetbets-reddit-citron",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/W4sv0GKA_my9XSRbvFr58w52ABo=/0x0:4000x2094/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22259374/1229817489.jpg",
+        "publishedAt": "2021-01-25T23:30:00Z",
+        "content": "Editors note, May 13, 2024, 2:35 pm ET: On May 12, 2024, Keith Gill, a.k.a. Roaring Kitty, returned to social media, with a post on X indicating his possible reentry to the investing space, and set o… [+17939 chars]"
+      }
+    ]
+  }

@@ -5,7 +5,6 @@ import PropTypes from "prop-types";
 import InfiniteScroll from "react-infinite-scroll-component";
 // import SelectComponent from './SelectComponent';
 // import Navbar from './components/Navbar.js';
-
 const News = (props) => {
 
 const [articles,setArticles]=useState([])

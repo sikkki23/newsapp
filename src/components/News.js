@@ -24,21 +24,21 @@ const [selectedValue,setSelectedValue]=useState('');
     return str.charAt(0).toUpperCase() + str.slice(1);
   };
 
-  const handleValueChange = async (newValue) => {
-    setSelectedValue(newValue);
-  }
+  // const handleValueChange = async (newValue) => {
+  //   setSelectedValue(newValue);
+  // }
 
   useEffect(() => {
     console.log("useEffect Did mount news");
       updateNews();
   }, [])
 
-  const handleNextClick = async () => {
-    if (!(page > Math.ceil(totalResults / 5))) {
-      setPage(page + 1);
-      updateNews();
-    }
-  };
+  // const handleNextClick = async () => {
+  //   if (!(page > Math.ceil(totalResults / 5))) {
+  //     setPage(page + 1);
+  //     updateNews();
+  //   }
+  // };
 
   const updateNews = async () => {
     props.setProgress(0);

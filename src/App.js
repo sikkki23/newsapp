@@ -35,7 +35,7 @@ const handleValueChange =(newValue)=> {
         <Navbar></Navbar>
         <LoadingBar
         height={3}
-        color="#00ff00"
+        color="#ff9900"
         progress={progress}
       />
    <Routes>
